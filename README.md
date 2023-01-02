@@ -2,7 +2,7 @@
 - 👀 I’m interested in WebDev
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on FullStack development
-- 📫 instagram - @sinha_.ankush
+- 📫 instagram - [@sinha_.ankush](https://www.instagram.com/sinha_.ankush/)
      linkedin - www.linkedin.com/in/ankush-sinha-355207223
 
 <!---
